@@ -46,7 +46,7 @@ This is the frontend microservice of the application built using React. It inter
     npm start
     ```
 
-2. Open your browser and navigate to `http://localhost:3001` to view the application.
+2. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ### Testing
 
